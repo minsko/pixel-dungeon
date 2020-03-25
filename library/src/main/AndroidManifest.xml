@@ -1,1 +1,3 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.watabou.pdlib"/>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.watabou.pdlib">
+    <uses-permission android:name="android.permission.VIBRATE"/>
+</manifest>
